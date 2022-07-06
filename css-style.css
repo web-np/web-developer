@@ -1,1 +1,57 @@
 /*this is my own file*/
+
+:root {
+    --np-blue: #1c84ee;
+    --np-indigo: #564ab1;
+    --np-purple: #6f42c1;
+    --np-pink: #e83e8c;
+    --np-red: #ef6767;
+    --np-orange: #fa5f1c;
+    --np-yellow: #ffcc5a;
+    --np-green: #34c38f;
+    --np-teal: #050505;
+    --np-cyan: #16daf1;
+    --np-white: #fff;
+    --np-gray: #74788d;
+    --np-gray-dark: #343a40;
+    --np-gray-100: #f8f9fa;
+    --np-gray-200: #e9e9ef;
+    --np-gray-300: #f6f6f6;
+    --np-gray-400: #ced4da;
+    --np-gray-500: #adb5bd;
+    --np-gray-600: #74788d;
+    --np-gray-700: #495057;
+    --np-gray-800: #343a40;
+    --np-gray-900: #2b3940;
+    --np-primary: #1c84ee;
+    --np-secondary: #74788d;
+    --np-success: #34c38f;
+    --np-info: #16daf1;
+    --np-warning: #ffcc5a;
+    --np-danger: #ef6767;
+    --np-pink: #e83e8c;
+    --np-light: #f6f6f6;
+    --np-dark: #2b3940;
+    --np-primary-rgb: 28,132,238;
+    --np-secondary-rgb: 116,120,141;
+    --np-success-rgb: 52,195,143;
+    --np-info-rgb: 22,218,241;
+    --np-warning-rgb: 255,204,90;
+    --np-danger-rgb: 239,103,103;
+    --np-pink-rgb: 232,62,140;
+    --np-light-rgb: 246,246,246;
+    --np-dark-rgb: 43,57,64;
+    --np-white-rgb: 255,255,255;
+    --np-black-rgb: 0,0,0;
+    --np-body-color-rgb: 73,80,87;
+    --np-body-bg-rgb: 244,245,248;
+    --np-font-sans-serif: "Be Vietnam Pro",sans-serif;
+    --np-font-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+    --np-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+    --np-body-font-family: var(--bs-font-sans-serif);
+    --np-body-font-size: 0.8125rem;
+    --np-body-font-weight: 400;
+    --np-body-line-height: 1.5;
+    --np-body-color: #495057;
+    --np-body-bg: #f4f5f8
+}
