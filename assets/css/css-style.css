@@ -1,4 +1,20 @@
-/*this is my own file*/
+/*this is my own file 
+    all attribute start data-np-*
+    -------------------------------------
+    data-np-color[Text Color:Blue,Color Values:(RGB, HEX, HSL, RGBA, HSLA) ]
+    data-np-background[color,image,repeat,attachment,position]
+    data-np-background-color[Text Color:blue,Color Values:(RGB, HEX, HSL)]
+    data-np-background-image[url("paper.gif")]
+    data-np-background-repeat[no-repeat,repeat-x,repeat-y]
+    data-np-background-attachment[scroll,fixed,local,initial,inherit]
+    data-np-background-position[x,y:values:	0% 0%,top,right,left,bottom,center ]
+    data-np-background-origin:[ padding-box,border-box,content-box,initial,inherit]
+    -------------------------------------
+    data-np-border-style[]
+    data-np-border-width[]
+    data-np-border-color[]
+
+*/
 
 :root {
     --np-blue: #1c84ee;
