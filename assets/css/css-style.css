@@ -1,5 +1,46 @@
 /*this is my own file 
     all attribute start data-np-*
+    -----------------------------------------
+    data-np-active[:active]
+    data-np-after[::after]
+    data-np-before[::before]
+    data-np-checked[:checked]
+    data-np-default[:default]
+    data-np-disabled[:disabled]
+    data-np-empty[:empty]
+    data-np-enabled[:enabled]
+    data-np-first-child[:first-child]
+    data-np-first-of-type[:first-of-type]
+    data-np-focus[:focus]
+    data-np-fullscreen[:fullscreen]
+    data-np-file-selector-button[::file-selector-button]
+    data-np-hover[:hover]
+    data-np-in-range[:in-range]
+    data-np-indeterminate[:indeterminate]
+    data-np-invalid[:invalid]
+    data-np-lang[:lang(it)]
+    data-np-last-child[:last-child]
+    data-np-last-of-type[:last-of-type]
+    data-np-link[:link]
+    data-np-marker[::marker]
+    data-np-not[:not(p)]
+    data-np-nth-child[:nth-child(2)]
+    data-np-nth-last-child[:nth-last-child(2)]
+    data-np-nth-last-of-type[:nth-last-of-type(2)]
+    data-np-nth-of-type[:nth-of-type(2)]
+    data-np-only-of-type[:only-of-type]
+    data-np-only-child[:only-child]
+    data-np-optional[:optional]
+    data-np-placeholder[::placeholder]
+    data-np-read-only[:read-only]
+    data-np-read-write[:read-write]
+    data-np-required[:required]
+    data-np-root[:root]
+    data-np-selection[::selection]
+    data-np-target[:target]
+    data-np-valid[:valid]
+    data-np-visited[:visited]
+
     -------------------------------------
     data-np-color[Text Color:Blue,Color Values:(RGB, HEX, HSL, RGBA, HSLA) ]
     data-np-background[color,image,repeat,attachment,position]
@@ -10,9 +51,13 @@
     data-np-background-position[x,y:values:	0% 0%,top,right,left,bottom,center ]
     data-np-background-origin:[ padding-box,border-box,content-box,initial,inherit]
     -------------------------------------
-    data-np-border-style[]
-    data-np-border-width[]
-    data-np-border-color[]
+    data-np-border[]
+    data-np-border-style[dotted,dashed,solid,double,groove,ridge,inset,outset,none,hidden,(top,right,bottom,left),(top,right-left,bottom),(y,x)]
+    data-np-border-width[(px, pt, cm, em),(thin, medium, or thick),(top,right,bottom,left),(top,right-left,bottom),(y,x)]
+    data-np-border-color[(top,right,bottom,left),(top,right-left,bottom),(y,x)]
+    data-np-border-side[(top,right,bottom,left),(top,right-left,bottom),(y,x)]
+    data-np-border-radius[(top,right,bottom,left),(top,right-left,bottom),(y,x)]
+
 
 */
 
